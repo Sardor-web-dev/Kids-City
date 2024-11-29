@@ -176,7 +176,7 @@ export default{
     background-repeat: no-repeat;
     width: 100%;
     height: 600px;
-    background-size: 100%;
+    background-size: cover;
 
 }
 .text{
