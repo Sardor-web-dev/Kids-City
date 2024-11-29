@@ -154,6 +154,9 @@ export default{
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+button{
+    cursor: pointer;
+}
 .container{
     display: flex;
     flex-direction: column;
@@ -166,6 +169,7 @@ export default{
     justify-content: center;
     gap: 75px;
     p{
+        cursor: pointer;
         font-family:sans-serif;
         font-size: 25px;
     }
