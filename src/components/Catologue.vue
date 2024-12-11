@@ -10,9 +10,6 @@
 
 
 <script>
-const arr = [
-    "sardor","fayoz","safina"
-]
 export default{
     
 }
