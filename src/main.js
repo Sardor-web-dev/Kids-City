@@ -5,6 +5,3 @@ import App from './App.vue'
 createApp(App).mount('#app')
 
 
-App.router.mount{
-    components:;
-}
