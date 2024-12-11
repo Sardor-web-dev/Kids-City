@@ -8,7 +8,6 @@
     </div>
 </template>
 
-ojhf;okvdokgjobnonvodnvjdfsn
 <script>
 export default{
     
