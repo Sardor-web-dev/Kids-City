@@ -1,7 +1,9 @@
 <template>
     <div class="container">
         <div class="casual">
-
+            <div>
+                
+            </div>
         </div>
         <div class="elegant"> 
             
