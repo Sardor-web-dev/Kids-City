@@ -270,7 +270,19 @@ img{
     gap: 45px;
     align-items: center;
     justify-content: center;
-a
+}
+.fact1{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    p{
+        font-size: 20px;
+    }
+    span{
+        font-size: 17px;
+    }
+}
+.fact2{
     display: flex;
     flex-direction: column;
     gap: 15px;
