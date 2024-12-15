@@ -273,8 +273,8 @@ img{
 }
 .fact1{
     display: flex;
-    flex-direction: column;a
-    display: flex;
+    flex-direction: column;
+    display: flex;+a
     flex-direction: column;
     gap: 15px;
     p{
