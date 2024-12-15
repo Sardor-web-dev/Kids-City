@@ -274,7 +274,7 @@ img{
 .fact1{
     display: flex;
     flex-direction: column;
-    display: flex;+a
+    display: flex;
     flex-direction: column;
     gap: 15px;
     p{
