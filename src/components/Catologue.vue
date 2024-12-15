@@ -3,7 +3,6 @@
         <div class="casual">
         </div>
         <div class="elegant"> 
-            
         </div>
     </div>
 </template>
