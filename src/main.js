@@ -17,5 +17,4 @@ j[PromiseRejectionEvent
     
     [onrejectionhandled
         'pih
-        
         '
