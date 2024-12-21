@@ -15,4 +15,4 @@ jsx
 
 j[PromiseRejectionEvent
     
-    [onrejectionhandled'
+    [oj'
