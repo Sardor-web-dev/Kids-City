@@ -12,5 +12,4 @@ length
 jsxj
 jsx
 'pih
-
-j[PromiseRejectionEvent'
+'
