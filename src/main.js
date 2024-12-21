@@ -18,5 +18,4 @@ j[PromiseRejectionEvent
     [onrejectionhandled
         'pih
         
-    ]PromiseRejectionEvent
-    opkn'
+    ]PromiseRejectionEvent'
