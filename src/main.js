@@ -1,4 +1,4 @@
-import { createApp, openBlock } from 'vue'
+import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'
 import { jsx } from 'vue/jsx-runtime'
@@ -19,4 +19,4 @@ j[PromiseRejectionEvent
         'pih
         
     ]PromiseRejectionEvent
-    openBlock'
+    opkn'
