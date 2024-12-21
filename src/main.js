@@ -22,5 +22,4 @@ j[PromiseRejectionEvent
     openBlock
     'kn';,m/m 
     
-    ;kjlb
-    '
+    ;kjlb'
