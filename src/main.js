@@ -13,6 +13,4 @@ jsxj
 jsx
 'pih
 
-j[PromiseRejectionEvent
-    
-    [oj'
+j[PromiseRejectionEvent'
