@@ -15,6 +15,4 @@ jsx
 
 j[PromiseRejectionEvent
     
-    [onrejectionhandled
-        'pih
-        '
+    [onrejectionhandled'
