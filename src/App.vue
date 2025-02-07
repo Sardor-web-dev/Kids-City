@@ -31,14 +31,14 @@
                         <img src="./assets/images/photo_2024-11-07_12-44-45.jpg" alt="">
                         <p class="p1">одежда для мальчиков</p>
                     </div>
-                <button>Посмотреть в каталоге</button>
+                <button class="catalog">Посмотреть в каталоге</button>
             </div>
             <div class="product2">
                 <div class="product">
                     <img src="./assets/images/photo_2024-11-07_12-44-43 (2).jpg" alt="">
                     <p class="p2">одежда для девочек</p>
                 </div>
-                <button>Посмотреть в каталоге</button>
+                <button class="catalog">Посмотреть в каталоге</button>
             </div>
             </div>
         </div>
